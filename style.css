@@ -1,16 +1,9 @@
-*{
-    color: blue;
+#box{
+    background-color: blue;
 }
-
-button{
-    color: green;
-}
-#css{
+.heading{
     color: red;
 }
-#css1{
-    color: brown;
-}
-.css2{
-    color: aqua;
+button{
+    background-color: black;
 }
