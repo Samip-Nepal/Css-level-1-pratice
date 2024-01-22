@@ -1,9 +1,6 @@
-#box{
-    background-color: blue;
+p{
+    text-align:left;
 }
-.heading{
-    color: red;
-}
-button{
-    background-color: black;
+h1{
+    text-align: center;
 }
