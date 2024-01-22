@@ -1,9 +1,16 @@
 *{
     color: blue;
 }
-h1{
-    color: rebeccapurple;
-}
+
 button{
     color: green;
+}
+#css{
+    color: red;
+}
+#css1{
+    color: brown;
+}
+#css2{
+    color: aqua;
 }
