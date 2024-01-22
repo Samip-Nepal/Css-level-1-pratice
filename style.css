@@ -1,9 +1,13 @@
 h1{
-    color: red;
+    color: rgb(49, 44, 44);
 }
 p{
-    color: brown;
+    color: rgb(165, 42, 128);
 }
 button{
     color: blue;
+    background-color: brown;
+}
+body{
+    background-color: rgb(205, 190, 50);
 }
