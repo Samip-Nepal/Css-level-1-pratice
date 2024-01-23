@@ -2,9 +2,15 @@ p{
     text-align:left;
 }
 h1{
-    text-align: center;
-    text-decoration: underline;
+      font-weight: normal;
+}
+h2{
     
+    font-weight: lighter;
+}
+h3{
+    
+     font-weight: bolder;
 }
 a{
     text-decoration: none;
