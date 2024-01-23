@@ -1,5 +1,10 @@
-p{
-    text-align:left;
+#one{
+    text-align:center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#two{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
 h1{
       font-weight: 100;
