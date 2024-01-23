@@ -4,6 +4,8 @@ p{
 h1{
     text-align: center;
     text-decoration: underline;
-    text-decoration: overline;
-    text-decoration: line-through;
+    
+}
+a{
+    text-decoration: none;
 }
