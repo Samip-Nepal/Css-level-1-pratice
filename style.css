@@ -5,3 +5,9 @@ h1{
     text-align: center;
     text-transform: capitalize;
 }
+#one{
+    font size: 25px;
+}
+#two{
+    font-size: 10px;
+}
